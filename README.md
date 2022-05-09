@@ -12,6 +12,9 @@
 É uma calculadora com função de multiplicação, divisão, soma e subtração. 
 Ao apertar o botão AC, todo o conteúdo é apagado e ao apertar a seta, somente o último número é apagado.
 
+# Link do projeto
+https://amandabartolo.github.io/calculator/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
